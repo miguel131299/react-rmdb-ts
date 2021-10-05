@@ -1,4 +1,3 @@
-import { type } from "os";
 import {
   SEARCH_BASE_URL,
   POPULAR_BASE_URL,

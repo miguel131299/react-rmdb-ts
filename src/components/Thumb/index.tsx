@@ -1,11 +1,10 @@
-import react from "react";
 import { Link } from "react-router-dom";
 //Styles
 import { Image } from "./Thumb.styles";
 // Types
 type Props = {
   image: string;
-  movieId: number;
+  movieId?: number;
   clickable: boolean;
 };
 

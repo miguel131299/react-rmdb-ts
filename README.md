@@ -1,3 +1,7 @@
+This Webiste was created following FreeCodeCamp's React JS Course for Beginners - 2021 Tutorial
+
+You can view the website live at: https://jovial-liskov-a2c2b8.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
